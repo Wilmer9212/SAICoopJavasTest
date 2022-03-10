@@ -1,0 +1,2 @@
+ip_conexion=192.168.99.200
+base_conexion=fama31dic20_movimientos
